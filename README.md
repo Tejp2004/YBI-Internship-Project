@@ -2,7 +2,7 @@
 
 Course Name - Artificial Intelligence and Generative AI
 
-Project title - Credit Card Default Prediction
+Project Title - Credit Card Default Prediction
 
 Platform used - Google Collab
 
